@@ -1,1 +1,1 @@
-You can download OptiFine for Fabric [here.](https://modrinth.com/modpack/optifine-for-fabric) This repository serves as a bug tracker and feature suggestion place.
+You can download OptiFine for Fabric [here.](https://modrinth.com/modpack/optifine-for-fabric) This repository serves as a bug tracker and feature suggestion place. Click [here](https://github.com/iFamished/OptiFine-for-Fabric/issues/new?template=bug_report.md) to create a bug report, and click [here]()
