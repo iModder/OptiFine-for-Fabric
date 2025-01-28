@@ -85,7 +85,25 @@ _OptiFine for Fabric_ has the performance, enhancements, better support for reso
   - Currently being developed.
 
 **To choose which version you want, I strongly suggest going to the Versions tab and selecting the desired version and loader, then selecting the latest version of whatever type you want (OptiFine for Fabric, OptiFine for Fabric+, OptiFine for Fabric focusFPS, or OptiFine for Fabric focusFPS+.**
-It is not reccomended to use Snapshot versions, as they may contain bugs.
+### **Latest version links:**
+**Fabric:**
+- [**OptiFine for Fabric 1.4**](https://modrinth.com/modpack/optifine-for-fabric/version/1.4)
+  - Minecraft 1.21.1
+- [**OptiFine for Fabric 2.0** (Pre-Release 1)](https://modrinth.com/modpack/optifine-for-fabric/version/2.0-prerelease_1)
+  - Minecraft 1.21.1
+  - Latest version for Minecraft 1.21.1
+  - Expect bugs
+
+**NeoForge:**
+- [**OptiFine for NeoForge 1.2** (Pre-Release 1)](https://modrinth.com/modpack/optifine-for-fabric/version/1.2-prerelease_1)
+  - Minecraft 1.21.1
+  - Expect bugs
+
+**Quilt:**
+- [**OptiFine for Quilt 1.0** (Pre-Release 1)](https://modrinth.com/modpack/optifine-for-fabric/version/1.0-rc_1)
+  - Minecraft 1.21.1
+  - Expect bugs
+_It is not reccomended to use Snapshot versions, as they may contain bugs._
 
 
 ## **You can download OptiFine for Fabric [here.](https://modrinth.com/modpack/optifine-for-fabric) This repository serves as a bug tracker and feature suggestion place.**
