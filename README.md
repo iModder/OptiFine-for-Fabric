@@ -1,11 +1,6 @@
 ## **What is this modpack?**
 _OptiFine for Fabric_ has the performance, enhancements, better support for resource packs, block and entity models, capes, connected textures, and zoom, all while being much more reliable! _OptiFine for Fabric_ will get updates faster than OptiFine, meaning no more checking optifine.net every hour after the latest update! You can even add your own mods to this modpack.
 
-### **Looking for a modpack that has all the features OptiFine does? You're looking in the right place!**
-
-_OptiFine for Fabric_ has the performance, enhancements, better support for resource packs, block and entity models, capes, connected textures, and zoom, all while being much more reliable! _OptiFine for Fabric_ will get updates faster than OptiFine, meaning no more checking optifine.net every hour after the latest update! You can even add your own mods to this modpack.
-
-
 **Here is how many FPS I get using OptiFine:**
 ![OptiFine FPS](https://cdn.modrinth.com/data/cached_images/eab07d43b64748d5ef8af561a25573b312154374.png)
 
